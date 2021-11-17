@@ -32,9 +32,9 @@ Accuracy:56.20
 MultinomialNB is the high accuracy 
 
 # Tools 
-*Pandas and numpy 
-*For the text (Nltk for stopwords, re , CountVectoizer) 
-*Matplotlib and Seaborn for plotting
+* Pandas and numpy 
+* For the text (Nltk for stopwords, re , CountVectoizer) 
+* Matplotlib and Seaborn for plotting
 * Power BI for interactive visualizations
 
 # Communication 
