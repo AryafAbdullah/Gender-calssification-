@@ -14,19 +14,19 @@ The link to the data source is given below.
 Link- https://www.kaggle.com/crowdflower/twitter-user-gender-classification/
 
 #  Algorithms 
-###Feature Engineering:
-*Cleaning the text by converting the chars to lower case, removing all special chars, removing stop words, and applying lemmatization.
+### Feature Engineering:
+* Cleaning the text by converting the chars to lower case, removing all special chars, removing stop words, and applying lemmatization.
 * Label the data Female = 0 , male = 1 , brand = 3. 
 * Display the most frequent words based on gender or brand, then display the common words between the three categories
 
-###Models:
-*Naïve bayes 
+### Models:
+* Naïve bayes 
 Accuracy:0.22
-*Logistic regression
+* Logistic regression
 Accuracy: 0.55
-*Random forest
+* Random forest
 Accuracy:0.54
-*MultinomialNB
+* MultinomialNB
 Accuracy:56.20 
 
 MultinomialNB is the high accuracy 
