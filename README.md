@@ -37,5 +37,4 @@ MultinomialNB is the high accuracy
 * Matplotlib and Seaborn for plotting
 * Power BI for interactive visualizations
 
-# Communication 
 
